@@ -1,4 +1,4 @@
-# 💫 Hi 👋, I'm Muhammad Anza Muneeb Khan
+# 💫 Aslam O Alikum 👋, I'm Muhammad Anza Muneeb Khan
 
 🧑‍💻 I’m currently working on:<br>Building scalable and user-friendly web and mobile applications as a Full-Stack Developer at InventorX Technologies (Gulberg Phase 3, Pakistan).<br>🤝 I’m looking to collaborate on:<br>Innovative web and app development projects, especially in MERN stack, and RESTful APIs.<br>✋ I’m looking for help with:<br>Expanding my expertise in Full-Stack Web Development, system architecture, and advanced cloud integration (AWS etc).<br>🌱 I’m currently learning:<br>Next.js, GraphQL, and advanced backend optimization techniques Etc.<br>💬 Ask me about:<br>Full-stack development, UI/UX best practices, project structuring, and app deployment.<br>⚡ Fun fact:<br>I'm passionate about clean code and caffeine-powered late-night debugging sessions!<br>📫 Contact me:<br>Email: anzamuneebkhan13@gmail.com<br>LinkedIn: https://www.linkedin.com/in/muhammadanzamuneebkhan
 
