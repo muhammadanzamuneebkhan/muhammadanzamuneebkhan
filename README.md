@@ -81,10 +81,20 @@ I design **responsive UIs** and build **robust backend systems** for real-world 
 
 ---
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/muhammadanzamuneebkhan/muhammadanzamuneebkhan/master/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/muhammadanzamuneebkhan/muhammadanzamuneebkhan/master/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/muhammadanzamuneebkhan/muhammadanzamuneebkhan/master/output/pacman-contribution-graph.svg">
+  <!-- Dark mode -->
+  <source media="(prefers-color-scheme: dark)" 
+          srcset="https://raw.githubusercontent.com/muhammadanzamuneebkhan/muhammadanzamuneebkhan/master/pacman-contribution-graph-dark.svg">
+  
+  <!-- Light mode -->
+  <source media="(prefers-color-scheme: light)" 
+          srcset="https://raw.githubusercontent.com/muhammadanzamuneebkhan/muhammadanzamuneebkhan/master/pacman-contribution-graph.svg">
+  
+  <!-- Fallback -->
+  <img alt="Pacman contribution graph" 
+       src="https://raw.githubusercontent.com/muhammadanzamuneebkhan/muhammadanzamuneebkhan/master/pacman-contribution-graph.svg"
+       style="max-width: 100%; display: block;">
 </picture>
+
 
 
 
