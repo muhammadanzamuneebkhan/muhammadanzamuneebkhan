@@ -1,1 +1,1 @@
-![Design and Development](https://github.com/muhammadanzamuneebkhan/muhammadanzamuneebkhan/master/githubbanner.jpg)
+![Design and Development](https://raw.githubusercontent.com/muhammadanzamuneebkhan/muhammadanzamuneebkhan/master/githubbanner.jpg)
