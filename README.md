@@ -5,7 +5,6 @@ You said:
   <h1>👋 Hi, I'm Muhammad Anza Muneeb Khan</h1>
   <h3>❂ Full Stack Developer | MERN Stack Expert | Software Engineer</h3>
   
-  🚀 **Check out my company portfolio:**  
   <a href="https://yourcompanywebsite.com" target="_blank">
     <img src="https://img.shields.io/badge/🌐%20Visit%20My%20Portfolio-0D1117?style=for-the-badge&logo=google-chrome&logoColor=white" height="40" />
   </a>
@@ -19,9 +18,14 @@ You said:
 </p>
 
 ---
+## 📜 About Me
+I’m a Lahore-based **Full-Stack Software Engineer** specializing in **modern, scalable web & mobile applications**.  
+From crafting sleek UIs to building robust APIs, I deliver **end-to-end MERN solutions** for businesses and startups.  
 
-## 📜 About Me  
-I am a Full-Stack Software Engineer based in Lahore City, Pakistan, specializing in designing and developing modern, scalable web and mobile applications. I create responsive user interfaces and implement robust backend systems to solve real-world problems. 🎓 I am currently pursuing a Bachelor of Science in Information Technology at Punjab University.
+🎓 **Education:** BS in Information Technology – Punjab University  
+💼 **Current Focus:** Building high-performance applications for clients worldwide.
+
+➡️ **View my work here:** [🌐 My Portfolio](https://yourcompanywebsite.com)
 
 ---
 
