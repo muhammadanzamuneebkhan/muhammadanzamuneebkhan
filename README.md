@@ -42,7 +42,7 @@ I am a Full-Stack Software Engineer based in Lod City, Pakistan, specializing in
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="Tailwind CSS" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=reactnative" height="60" alt="React Native" />
+  <img src="https://reactnative.dev/img/header_logo.svg" height="60" alt="React Native" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=html" height="60" alt="HTML" />
 </div>
