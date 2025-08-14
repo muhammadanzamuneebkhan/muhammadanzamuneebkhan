@@ -82,12 +82,9 @@ I design **responsive UIs** and build **robust backend systems** for real-world 
 ---
 
 <p align="center">
-  <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://maurodesouza.github.io/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://maurodesouza.github.io/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://maurodesouza.github.io/output/pacman-contribution-graph.svg">
-</picture>
-
+  <img 
+    src="https://maurodesouza.github.io/output/pacman-contribution-graph.svg" 
+    alt="pacman contribution graph" />
 </p>
 
 ---
