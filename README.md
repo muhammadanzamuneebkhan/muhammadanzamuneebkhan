@@ -103,10 +103,24 @@ I design **responsive UIs** and build **robust backend systems** for real-world 
 
 ## 🪙 Support Me
 
-[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/yourusername)  
-[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/yourusername)  
-[![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://www.patreon.com/yourusername)  
-[![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/yourusername)
+<p align="center">
+  <a href="https://buymeacoffee.com/yourusername">
+    <img height="28" src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me a Coffee">
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://paypal.me/yourusername">
+    <img height="28" src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" alt="PayPal">
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.patreon.com/yourusername">
+    <img height="28" src="https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white" alt="Patreon">
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://ko-fi.com/yourusername">
+    <img height="28" src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Ko-fi">
+  </a>
+</p>
+
 
 ---
 
