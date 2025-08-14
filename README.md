@@ -1,4 +1,3 @@
-You said:
 ![Design and Development](https://raw.githubusercontent.com/muhammadanzamuneebkhan/muhammadanzamuneebkhan/master/githubbanner.jpg)
 
 <div align="center">
@@ -18,20 +17,21 @@ You said:
 </p>
 
 ---
+
 ## 📜 About Me
 I’m a Lahore-based **Full-Stack Software Engineer** specializing in **modern, scalable web & mobile applications**.  
 From crafting sleek UIs to building robust APIs, I deliver **end-to-end MERN solutions** for businesses and startups.  
 
 🎓 **Education:** BS in Information Technology – Punjab University  
-💼 **Current Focus:** Building high-performance applications for clients worldwide.
+💼 **Current Focus:** Building high-performance applications for clients worldwide.  
 
 ➡️ **View my work here:** [🌐 My Portfolio](https://yourcompanywebsite.com)
 
 ---
 
-## 🛠 Tech Stack  
+## 🛠 Tech Stack
 
-### 💻 Languages & Frameworks  
+### 💻 Languages & Frameworks
 <div align="center">
   <img src="https://skillicons.dev/icons?i=js" height="60" alt="JavaScript" />
   <img width="12" />
@@ -54,8 +54,7 @@ From crafting sleek UIs to building robust APIs, I deliver **end-to-end MERN sol
   <img src="https://skillicons.dev/icons?i=html" height="60" alt="HTML" />
 </div>
 
-
-### 🔧 Tools & Platforms   
+### 🔧 Tools & Platforms
 <p align="center">
   <img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub" />
   <img width="12" />
@@ -74,10 +73,9 @@ From crafting sleek UIs to building robust APIs, I deliver **end-to-end MERN sol
   <img src="https://skillicons.dev/icons?i=devto" height="40" alt="Developer Tools" />
 </p>
 
-
 ---
 
-## 🌐 Connect With Me  
+## 🌐 Connect With Me
 <div align="center">
   <a href="https://www.facebook.com/yourusername" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&style=for-the-badge" height="35" alt="Facebook" />
@@ -114,16 +112,11 @@ From crafting sleek UIs to building robust APIs, I deliver **end-to-end MERN sol
   </a>
 </div>
 
-
-
 ---
 
 ## 📊 GitHub Stats
 <div align="center">
-  <!-- Main stats: commits, PRs, issues -->
   <img src="https://github-readme-stats.vercel.app/api?username=muhammadanzamuneebkhan&theme=dark&hide_border=true&show_icons=true&count_private=true" />
-
-  <!-- Top languages used -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadanzamuneebkhan&theme=dark&hide_border=true&layout=compact" />
 </div>
 
@@ -137,37 +130,27 @@ From crafting sleek UIs to building robust APIs, I deliver **end-to-end MERN sol
 ---
 
 ## 🪙 Support Me
-
 <p align="center">
-  <!-- Buy Me a Coffee -->
   <a href="https://www.buymeacoffee.com/yourusername">
     <img height="28" src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me a Coffee">
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-
-  <!-- Ko-fi -->
+  &nbsp;&nbsp;&nbsp;
   <a href="https://ko-fi.com/yourusername">
     <img height="28" src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Ko-fi">
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-
-  <!-- Patreon -->
+  &nbsp;&nbsp;&nbsp;
   <a href="https://www.patreon.com/yourusername">
     <img height="28" src="https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white" alt="Patreon">
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-
-  <!-- Payoneer -->
+  &nbsp;&nbsp;&nbsp;
   <a href="https://www.payoneer.com/">
     <img height="28" src="https://img.shields.io/badge/Payoneer-FF4800?style=for-the-badge&logo=payoneer&logoColor=white" alt="Payoneer">
   </a>
 </p>
 
-
-
 ---
 
-## 🧠 My Guiding Quote  
+## 🧠 My Guiding Quote
 > "What you want in life is often desired by many others too. But in the race toward that goal, only those who move with speed, focus, and persistence will reach it first. Don’t waste time—every moment counts." – *Muhammad Anza Muneeb Khan*  
 
 ---
