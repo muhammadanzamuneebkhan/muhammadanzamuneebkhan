@@ -19,8 +19,6 @@ I’m a Full-Stack Software Engineer from Lahore City, Pakistan, specializing in
 
 ---
 
----
-
 ## 📫 How to Reach Me 🌐
 
 <p align="center">
