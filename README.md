@@ -89,12 +89,22 @@ From crafting sleek UIs to building robust APIs, I deliver **end-to-end MERN sol
   <a href="https://pk.linkedin.com/in/muhammadanzamuneebkhan" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="35" alt="LinkedIn" />
   </a>
-  <a href="https://wa.me/923334098558" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=WhatsApp&logo=whatsapp&label=&color=25D366&logoColor=white&style=for-the-badge" height="35" alt="WhatsApp" />
-  </a>
-  <a href="mailto:anzamuneebkhan13@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="35" alt="Gmail" />
-  </a>
+<a href="https://wa.me/923334098558" target="_blank" rel="noopener noreferrer">
+  <img 
+    src="https://img.shields.io/static/v1?message=WhatsApp&logo=whatsapp&label=&color=25D366&logoColor=white&style=for-the-badge" 
+    height="35" 
+    alt="WhatsApp" 
+  />
+</a>
+
+<a href="mailto:anzamuneebkhan13@gmail.com" target="_blank" rel="noopener noreferrer">
+  <img 
+    src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" 
+    height="35" 
+    alt="Gmail" 
+  />
+</a>
+
   <a href="https://twitter.com/yourusername" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&style=for-the-badge" height="35" alt="Twitter" />
   </a>
