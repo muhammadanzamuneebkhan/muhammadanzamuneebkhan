@@ -80,15 +80,26 @@ I design **responsive UIs** and build **robust backend systems** for real-world 
 </div>
 
 ---
-<p align="center">
-  <img 
-    src="https://raw.githubusercontent.com/muhammadanzamuneebkhan/muhammadanzamuneebkhan/master/pacman-contribution-graph.svg" 
-    alt="Pacman contribution graph" 
-    width="600"
-  />
-</p>
+<!-- GitHub Banner -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" 
+          srcset="https://raw.githubusercontent.com/muhammadanzamuneebkhan/muhammadanzamuneebkhan/master/githubbanner-dark.jpg">
+  <source media="(prefers-color-scheme: light)" 
+          srcset="https://raw.githubusercontent.com/muhammadanzamuneebkhan/muhammadanzamuneebkhan/master/githubbanner.jpg">
+  <img alt="GitHub Banner" 
+       src="https://raw.githubusercontent.com/muhammadanzamuneebkhan/muhammadanzamuneebkhan/master/githubbanner.jpg">
+</picture>
 
+---
 
+<!-- Pacman Contribution Graph -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" 
+          srcset="https://raw.githubusercontent.com/muhammadanzamuneebkhan/muhammadanzamuneebkhan/master/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" 
+          srcset="https://raw.githubusercontent.com/muhammadanzamuneebkhan/muhammadanzamuneebkhan/master/pacman-contribution-graph.svg">
+  <img alt="Pacman contribution graph" src="https://raw.githubusercontent.com/muhammadanzamuneebkhan/muhammadanzamuneebkhan/master/pacman-contribution-graph.svg">
+</picture>
 ---
 
 ## 🧠 My Guiding Quote  
