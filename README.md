@@ -82,13 +82,13 @@ I am a Full-Stack Software Engineer based in Lod City, Pakistan, specializing in
 
 ---
 
-# 📊 GitHub Stats
+## 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=muhammadanzamuneebkhan&theme=dark&hide_border=true&include_all_commits=false&count_private=false" />
-  <br/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=muhammadanzamuneebkhan&theme=dark&hide_border=true" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadanzamuneebkhan&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact" />
+  <!-- Main stats: commits, PRs, issues -->
+  <img src="https://github-readme-stats.vercel.app/api?username=muhammadanzamuneebkhan&theme=dark&hide_border=true&show_icons=true&count_private=true" />
+
+  <!-- Top languages used -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadanzamuneebkhan&theme=dark&hide_border=true&layout=compact" />
 </div>
 
 ---
