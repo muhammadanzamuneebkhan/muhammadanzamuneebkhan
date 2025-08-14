@@ -15,8 +15,7 @@
 
 ---
 
-A passionate Full-Stack Software Engineer from Lod City, Pakistan — I design, build, and maintain complete web applications from front to back. My work covers everything from responsive user interfaces to scalable backend systems.  
-Currently pursuing BSIT at Punjab University, I blend academic knowledge with real-world development to deliver modern, high-performance web solutions.
+I’m a Full-Stack Software Engineer from Lahore City, Pakistan, specializing in building modern, scalable web and mobile applications. I create everything from responsive user interfaces to robust backend systems, delivering solutions that are efficient, user-friendly, and built for real-world use. Currently pursuing a BS in Information Technology at Punjab University.
 
 ---
 
