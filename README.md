@@ -20,7 +20,8 @@
 
 ###
 
-<img align="right" height="150" src="(https://raw.githubusercontent.com/muhammadanzamuneebkhan/muhammadanzamuneebkhan/master/githubbanner.jpg"  />
+<img align="right" height="150" src="https://raw.githubusercontent.com/muhammadanzamuneebkhan/muhammadanzamuneebkhan/master/githubbanner.jpg" />
+
 
 
 ###
@@ -53,3 +54,7 @@
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
 </div>
+---
+### 🧠 My Guiding Quotes
+
+> *"What you want in life is often desired by many others too. But in the race toward that goal, only those who move with speed, focus, and persistence will reach it first. Don’t waste time—every moment counts." – Muhammad Anza Muneeb Khan
