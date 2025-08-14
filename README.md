@@ -61,14 +61,6 @@ I design **responsive UIs** and build **robust backend systems** for real-world 
 
 ---
 
-## 📊 GitHub Stats  
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=muhammadanzamuneebkhan&show_icons=true&theme=dracula&count_private=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=muhammadanzamuneebkhan&layout=compact&theme=dracula" height="150" />
-</div>
-
----
-
 ## 🌐 Connect With Me  
 <div align="center">
   <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
@@ -80,11 +72,39 @@ I design **responsive UIs** and build **robust backend systems** for real-world 
 </div>
 
 ---
-<!-- Pacman Contribution Graph -->
-<div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
-</div>
+<!-- GitHub Banner -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" 
+          srcset="https://raw.githubusercontent.com/muhammadanzamuneebkhan/muhammadanzamuneebkhan/master/githubbanner-dark.jpg">
+  <source media="(prefers-color-scheme: light)" 
+          srcset="https://raw.githubusercontent.com/muhammadanzamuneebkhan/muhammadanzamuneebkhan/master/githubbanner.jpg">
+  <img alt="GitHub Banner" 
+       src="https://raw.githubusercontent.com/muhammadanzamuneebkhan/muhammadanzamuneebkhan/master/githubbanner.jpg">
+</picture>
+
 ---
 
+<!-- Pacman Contribution Graph -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" 
+          srcset="https://raw.githubusercontent.com/muhammadanzamuneebkhan/muhammadanzamuneebkhan/master/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" 
+          srcset="https://raw.githubusercontent.com/muhammadanzamuneebkhan/muhammadanzamuneebkhan/master/pacman-contribution-graph.svg">
+  <img alt="Pacman contribution graph" src="https://raw.githubusercontent.com/muhammadanzamuneebkhan/muhammadanzamuneebkhan/master/pacman-contribution-graph.svg">
+</picture>
+---
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=muhammadanzamuneebkhan&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=muhammadanzamuneebkhan&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadanzamuneebkhan&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=muhammadanzamuneebkhan&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+---
+[![](https://visitcount.itsvg.in/api?id=muhammadanzamuneebkhan&icon=0&color=0)](https://visitcount.itsvg.in)
+
+  ## 💰 You can help me by Donating
+  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/https://web.whatsapp.com/) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/https://web.whatsapp.com/) [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/https://web.whatsapp.com/) [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/https://web.whatsapp.com/) 
 ## 🧠 My Guiding Quote  
 > "What you want in life is often desired by many others too. But in the race toward that goal, only those who move with speed, focus, and persistence will reach it first. Don’t waste time—every moment counts." – *Muhammad Anza Muneeb Khan*  
