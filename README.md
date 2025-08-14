@@ -1,11 +1,15 @@
 You said:
 ![Design and Development](https://raw.githubusercontent.com/muhammadanzamuneebkhan/muhammadanzamuneebkhan/master/githubbanner.jpg)
 
-# 👋 Hi, I'm Muhammad Anza Muneeb Khan  
-
-<h3 align="center">
-❂ Full Stack Developer | MERN Stack Expert | Software Engineer
-</h3>
+<div align="center">
+  <h1>👋 Hi, I'm Muhammad Anza Muneeb Khan</h1>
+  <h3>❂ Full Stack Developer | MERN Stack Expert | Software Engineer</h3>
+  
+  🚀 **Check out my company portfolio:**  
+  <a href="https://yourcompanywebsite.com" target="_blank">
+    <img src="https://img.shields.io/badge/🌐%20Visit%20My%20Portfolio-0D1117?style=for-the-badge&logo=google-chrome&logoColor=white" height="40" />
+  </a>
+</div>
 
 <p align="center">
   <img 
