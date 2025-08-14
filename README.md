@@ -42,8 +42,6 @@ I am a Full-Stack Software Engineer based in Lod City, Pakistan, specializing in
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="Tailwind CSS" />
   <img width="12" />
-  <img src="https://reactnative.dev/img/header_logo.svg" height="60" alt="React Native" />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=html" height="60" alt="HTML" />
 </div>
 
@@ -62,11 +60,7 @@ I am a Full-Stack Software Engineer based in Lod City, Pakistan, specializing in
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=aws" height="40" alt="AWS" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=digitalocean" height="40" alt="Digital Ocean" />
-  <img width="12" />
   <img src="https://img.shields.io/badge/Hostinger-%23633E95.svg?style=for-the-badge&logo=hostinger&logoColor=white" height="40" alt="Hostinger" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=render" height="40" alt="Render" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=kubernetes" height="40" alt="Kubernetes" />
   <img width="12" />
