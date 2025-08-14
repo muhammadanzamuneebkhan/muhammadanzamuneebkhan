@@ -16,9 +16,7 @@
 ---
 
 ## 📜 About Me  
-I’m a **Full-Stack Software Engineer** from **Lod City, Pakistan**, specializing in **modern, scalable web and mobile applications**.  
-I design **responsive UIs** and build **robust backend systems** for real-world use.  
-🎓 Currently pursuing **BS in Information Technology** at **Punjab University**.
+I am a Full-Stack Software Engineer based in Lod City, Pakistan, specializing in designing and developing modern, scalable web and mobile applications. I create responsive user interfaces and implement robust backend systems to solve real-world problems. 🎓 I am currently pursuing a Bachelor of Science in Information Technology at Punjab University.
 
 ---
 
