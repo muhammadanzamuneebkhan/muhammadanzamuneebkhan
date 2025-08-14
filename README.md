@@ -62,12 +62,6 @@ I am a Full-Stack Software Engineer based in Lod City, Pakistan, specializing in
   <img width="12" />
   <img src="https://img.shields.io/badge/Hostinger-%23633E95.svg?style=for-the-badge&logo=hostinger&logoColor=white" height="40" alt="Hostinger" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=kubernetes" height="40" alt="Kubernetes" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=go" height="40" alt="Go" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=rust" height="40" alt="Rust" />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=devto" height="40" alt="Developer Tools" />
 </p>
 
