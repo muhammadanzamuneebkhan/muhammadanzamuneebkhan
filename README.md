@@ -77,7 +77,7 @@ From crafting sleek UIs to building robust APIs, I deliver **end-to-end MERN sol
 
 ## 🌐 Connect With Me
 <div align="center">
-  <a href="https://www.facebook.com/yourusername" target="_blank">
+  <a href="https://www.facebook.com/muhammadanzamuneebkhan/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&style=for-the-badge" height="35" alt="Facebook" />
   </a>
   <a href="https://www.tiktok.com/@yourusername" target="_blank">
@@ -86,22 +86,19 @@ From crafting sleek UIs to building robust APIs, I deliver **end-to-end MERN sol
   <a href="https://www.instagram.com/yourusername" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&style=for-the-badge" height="35" alt="Instagram" />
   </a>
-  <a href="https://www.linkedin.com/in/yourusername" target="_blank">
+  <a href="https://pk.linkedin.com/in/muhammadanzamuneebkhan" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="35" alt="LinkedIn" />
   </a>
-  <a href="https://wa.me/yourphonenumber" target="_blank">
+  <a href="https://wa.me/923334098558" target="_blank">
     <img src="https://img.shields.io/static/v1?message=WhatsApp&logo=whatsapp&label=&color=25D366&logoColor=white&style=for-the-badge" height="35" alt="WhatsApp" />
   </a>
-  <a href="mailto:your.email@example.com" target="_blank">
+  <a href="mailto:anzamuneebkhan13@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="35" alt="Gmail" />
-  </a>
-  <a href="https://yourwebsite.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Website&logo=google-chrome&label=&color=4285F4&logoColor=white&style=for-the-badge" height="35" alt="Website" />
   </a>
   <a href="https://twitter.com/yourusername" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&style=for-the-badge" height="35" alt="Twitter" />
   </a>
-  <a href="https://x.com/yourusername" target="_blank">
+  <a href="https://x.com/manzamuneeb" target="_blank">
     <img src="https://img.shields.io/static/v1?message=X&logo=x&label=&color=000000&logoColor=white&style=for-the-badge" height="35" alt="X" />
   </a>
   <a href="https://www.youtube.com/@yourusername" target="_blank">
